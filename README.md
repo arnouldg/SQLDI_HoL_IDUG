@@ -1,4 +1,4 @@
-# IBM SQL Data Insights in Db2 13 for z/OS Hands-On Lab
+# IBM SQL Data Insights with Db2 13 for z/OS Hands-On Lab
 
 
 This repository contains working documents to run the IBM SQL Data Insights with Db2 13 for z/OS Hands-On Lab exrcices.
